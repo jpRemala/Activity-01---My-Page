@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+.profile{
+  background-image: url("../Images/profile.jpg");
+  height: 250px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.animate {
+   -webkit-transition: all 0.3s ease-in-out;
+   -moz-transition: all 0.3s ease-in-out;
+ -o-transition: all 0.3s ease-in-out;
+ -ms-transition: all 0.3s ease-in-out;
+ transition: all 0.3s ease-in-out;
+}
+.mg{
+
+  margin-left: -20px;
+  margin-right: -15px;
+}
+.bg-light{
+  background-color: #EBEBEB;
+}
+.text{
+  font-family: 'Work Sans', sans-serif;
+}
+.info{
+  padding-bottom: 3%;
+  width: 100%;
+  border-radius: 5px;
+  background: white;
+  margin-top:35px;
+}
+.bg-white{
+  background-color: white;
+}
+.text-line{
+  line-height: 1;
+  font-size: 10px;
+  padding-left: 20px;
+}
+
+.bt-6{
+  height: 500px;
+}
+
+
+
+.b-shadow{
+  box-shadow: 0 0 3px gray;
+}
+.tf-1{
+  font-size: 15px;
+}
+
+.c-gray{
+  color: #64686E;
+}
+
+.fixed{
+  background-attachment: fixed;
+}
+
+.overflow-x{
+  overflow-x: auto;
+}
